@@ -1,5 +1,4 @@
-# reversed-array-swift
-Reversed Array in Swift
+# Reversed Array in Swift
 
 Reverse an array from position m to n. Do it in-place and in one-pass.
 
